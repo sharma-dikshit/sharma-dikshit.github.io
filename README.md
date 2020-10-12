@@ -126,7 +126,7 @@ You can look at the top of [`aboutme.md`](https://raw.githubusercontent.com/daat
 
 # Supported parameters
 
-Below is a list of the parameters that Beautiful Jekyll supports (any of these can be added to the YAML front matter of any page). Remember to also look in the `_config.yml` file to see additional site-wide settings.
+Below is a list of the parameters that Beautiful Jekyll supports (any of these can be added to the YAML front matter of any page). Remember to also look in the `_config.yml` file to see additional site-wide settings..
 
 ## Main parameters
 
